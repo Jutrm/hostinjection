@@ -1,7 +1,4 @@
 
-<div align="center">
-  <img src="https://blogs.cappriciosec.com/uploaders/CVE-2021-24917-tool.png" alt="logo">
-</div>
 
 
 ## Badges
